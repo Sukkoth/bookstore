@@ -254,6 +254,7 @@
         function pageNumberJumper(pageNumber){
             page = pageNumber;
             getBooksData();
+
         }
     </script>
 @endsection
